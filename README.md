@@ -6,7 +6,7 @@ This project demonstrates manual and automated testing skills, including explora
 
 
 ## Project Structure
-
+```
 BITCUBE/
 ├── tests/
 │   ├── part3.spec.js        # Main automation test suite
@@ -18,6 +18,7 @@ BITCUBE/
 ├── Automation_Test_Part4.pdf # Part 4 automation results
 ├── package.json
 └── package-lock.json
+```
 
 
 ## Assessment Overview
