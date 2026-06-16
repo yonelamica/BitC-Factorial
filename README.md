@@ -15,7 +15,7 @@ BITCUBE/
 ├── test-results/             # Screenshots on failure
 ├── Part1.pdf                 # Manual exploratory testing & defect report
 ├── Part 2.pdf                # Test case documentation
-├── Automation_Test_Part4.pdf # Part 4 automation results
+├── Automation Test results_Part4 # Part 4 automation results
 ├── package.json
 └── package-lock.json
 ```
